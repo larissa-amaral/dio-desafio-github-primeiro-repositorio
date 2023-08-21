@@ -15,6 +15,11 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 
 
 
+## Erros Git
+
+- Remote origin already exist
+https://komodor.com/learn/how-to-fix-fatal-remote-origin-already-exists-error/
+
 ## Introdução Github
 
 
